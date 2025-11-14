@@ -62,6 +62,9 @@ to help select and compare selected dates
 # Data Model
 ![Diagram](https://github.com/Zahraa-Abdalnasser/Vacation-Tracking-System-/blob/main/data%20model.jpeg)
 
+# ERD
+![Diagram](https://raw.githubusercontent.com/Zahraa-Abdalnasser/Vacation-Tracking-System-/refs/heads/main/ERD.drawio.svg)
+
 # Withdraw use case Diagrams 
 ![Diagram](https://raw.githubusercontent.com/Zahraa-Abdalnasser/Vacation-Tracking-System-/refs/heads/main/Withdraw%20FlowChart%20and%20Seq%20Diagram.drawio.svg)
 
